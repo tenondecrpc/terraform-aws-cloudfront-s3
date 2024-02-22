@@ -42,7 +42,7 @@ Static Website setting:
 
 CloudFront Distribution:
 
-![alt text](/iamges/cfdist.png)
+![alt text](/images/cfdist.png)
 
 CloudFront Distribution Origin as S3 with Origin Access Control OAC:
 
